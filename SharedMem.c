@@ -128,3 +128,4 @@ int main() {
         printf("The bear eats all the honey\n");
         sem_post(semP);
     }
+}
