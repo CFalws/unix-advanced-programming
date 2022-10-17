@@ -162,7 +162,6 @@ void *philosopher(void *arg) {
         eat();
         putdownChopstick(*ptrID);
     }
-
     return NULL;
 }
 
